@@ -1,9 +1,15 @@
 # E-commerce Sales Performance Analysis
+*(La version française suit)*
 
 ## Project Overview
 
 This project analyzes the sales performance of an e-commerce platform using SQL and Power BI.
 The goal is to uncover key business insights related to revenue, customer behavior, and operational performance.
+
+## Sample Data
+
+Cleaned sample datasets have been included in this project for demonstration purposes.
+The full datasets can be regenerated using the SQL scripts provided.
 
 ## Tools Used
 
@@ -43,6 +49,22 @@ The dashboard is divided into three main sections:
 2. Customer Behavior & Experience - Churn, satisfaction, delivery analysis
 3. Sales & Transaction Analysis - Payment behavior and operational performance
 
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](powerbi/images/page1.png)
+
+### Customer Behavior & Experience Analysis
+![Customer Behavior](powerbi/images/page2.png)
+
+### Sales & Transaction Analysis
+![Sales Analysis](powerbi/images/page3.png)
+
+## Interactive Dashboard
+
+The full interactive dashboard is available in the `.pbix` file included in this repository.
+To explore the dashboard, download and open the file using Power BI Desktop.
+
 ## Project Files
 
 * SQL scripts
@@ -57,6 +79,11 @@ The dashboard is divided into three main sections:
 
 Ce projet analyse la performance des ventes d’une plateforme e-commerce à l’aide de SQL et Power BI.
 L’objectif est d’identifier des insights clés liés au chiffre d’affaires, au comportement des clients et à la performance opérationnelle.
+
+## Données d’exemple
+
+Des échantillons de données nettoyées ont été ajoutés à ce projet à des fins de démonstration.
+Les données complètes peuvent être régénérées à l’aide des scripts SQL fournis.
 
 ## Outils utilisés
 
@@ -96,9 +123,28 @@ Le dashboard est organisé en trois sections :
 2. Comportement client - churn, satisfaction, livraison
 3. Analyse des transactions - paiements et performance
 
+## Aperçu du dashboard
+
+### Vue d’ensemble (Executive Overview)
+
+![Vue d’ensemble](powerbi/images/page1.png)
+
+### Comportement et expérience client
+
+![Comportement client](powerbi/images/page2.png)
+
+### Analyse des ventes et des transactions
+
+![Analyse des ventes](powerbi/images/page3.png)
+
+
+## Dashboard interactif
+
+Le dashboard interactif complet est disponible dans le fichier `.pbix` inclus dans ce dépôt.
+Pour l’explorer, téléchargez et ouvrez le fichier avec Power BI Desktop.
+
 ## Fichiers du projet
 
 * Scripts SQL
 * Dashboard Power BI
 * Données transformées (CSV)
-
