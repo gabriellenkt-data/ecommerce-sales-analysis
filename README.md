@@ -6,6 +6,8 @@
 This project analyzes the sales performance of an e-commerce platform using SQL and Power BI.
 The goal is to uncover key business insights related to revenue, customer behavior, and operational performance.
 
+This project is based on the Brazilian E-Commerce Public Dataset by Olist, which contains over 100,000 orders and multiple related tables. The data is structured as a relational database, including information on customers, orders, products, payments, and reviews, enabling comprehensive analysis across different business dimensions.
+
 ## Objectives
 
 The main objectives of this project are:
@@ -90,6 +92,8 @@ The full datasets can be regenerated using the SQL scripts provided.
 
 Ce projet analyse la performance des ventes d’une plateforme e-commerce à l’aide de SQL et Power BI.
 L’objectif est d’identifier des insights clés liés au chiffre d’affaires, au comportement des clients et à la performance opérationnelle.
+
+Ce projet est basé sur le Brazilian E-Commerce Public Dataset (Olist), qui contient plus de 100 000 commandes réparties sur plusieurs tables. Les données sont organisées sous forme de base de données relationnelle, incluant des informations sur les clients, les commandes, les produits, les paiements et les avis, permettant une analyse complète sous différents angles business.
 
 ## Objectifs
 
