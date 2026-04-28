@@ -6,10 +6,16 @@
 This project analyzes the sales performance of an e-commerce platform using SQL and Power BI.
 The goal is to uncover key business insights related to revenue, customer behavior, and operational performance.
 
-## Sample Data
+## Objectives
 
-Cleaned sample datasets have been included in this project for demonstration purposes.
-The full datasets can be regenerated using the SQL scripts provided.
+The main objectives of this project are:
+
+* Analyze the overall sales performance of an e-commerce platform
+* Identify key revenue trends and seasonal patterns
+* Understand customer behavior and purchasing habits
+* Evaluate customer satisfaction and delivery performance
+* Detect potential churn and retention issues
+* Provide actionable business recommendations based on data insights
 
 ## Tools Used
 
@@ -71,6 +77,11 @@ To explore the dashboard, download and open the file using Power BI Desktop.
 * Power BI dashboard
 * Processed datasets (CSV)
 
+## Sample Data
+
+Cleaned sample datasets have been included in this project for demonstration purposes.
+The full datasets can be regenerated using the SQL scripts provided.
+
 ---
 
 # Analyse de la performance des ventes e-commerce
@@ -80,10 +91,16 @@ To explore the dashboard, download and open the file using Power BI Desktop.
 Ce projet analyse la performance des ventes d’une plateforme e-commerce à l’aide de SQL et Power BI.
 L’objectif est d’identifier des insights clés liés au chiffre d’affaires, au comportement des clients et à la performance opérationnelle.
 
-## Données d’exemple
+## Objectifs
 
-Des échantillons de données nettoyées ont été ajoutés à ce projet à des fins de démonstration.
-Les données complètes peuvent être régénérées à l’aide des scripts SQL fournis.
+Les principaux objectifs de ce projet sont :
+
+* Analyser la performance globale des ventes d’une plateforme e-commerce
+* Identifier les tendances de revenu et les effets de saisonnalité
+* Comprendre le comportement et les habitudes d’achat des clients
+* Évaluer la satisfaction client et la performance des livraisons
+* Détecter les problèmes de churn et de rétention
+* Proposer des recommandations business basées sur les données
 
 ## Outils utilisés
 
@@ -137,7 +154,6 @@ Le dashboard est organisé en trois sections :
 
 ![Analyse des ventes](powerbi/images/page3.png)
 
-
 ## Dashboard interactif
 
 Le dashboard interactif complet est disponible dans le fichier `.pbix` inclus dans ce dépôt.
@@ -148,3 +164,8 @@ Pour l’explorer, téléchargez et ouvrez le fichier avec Power BI Desktop.
 * Scripts SQL
 * Dashboard Power BI
 * Données transformées (CSV)
+
+## Données d’exemple
+
+Des échantillons de données nettoyées ont été ajoutés à ce projet à des fins de démonstration.
+Les données complètes peuvent être régénérées à l’aide des scripts SQL fournis.
