@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+data/raw/
+data/cleaned/
+*.csv
+*_session.sql
+.venv/
+*.session.sql
